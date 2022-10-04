@@ -12,7 +12,6 @@ class Main{
             for (int j = 0; j < n; j++) {
                 System.out.print( ((int)Math.pow(2,j)*b + numBefore) + " ");
                 numBefore += (int) Math.pow(2,j)*b;
-                // System.out.println(numBefore);
             }
             System.out.println();
         }
