@@ -18,6 +18,9 @@ Repository for holding my [HackerRank](https://www.hackerrank.com/) programming 
     * Issue Date: October 2022
     * Credential ID: B31A3426004A
     * URL: [https://www.hackerrank.com/certificates/b31a3426004a](https://www.hackerrank.com/certificates/b31a3426004a)
+    
+## Badges 
+![Java badges](https://user-images.githubusercontent.com/91227368/194737418-b17bf408-4151-45e5-bcbd-fc856ee35df9.png)
 
 ## Credit
 
